@@ -1,0 +1,7 @@
+C:\Users\giao5\source\repos\Console\Console\bin\Debug\Console.exe.config
+C:\Users\giao5\source\repos\Console\Console\bin\Debug\Console.exe
+C:\Users\giao5\source\repos\Console\Console\bin\Debug\Console.pdb
+C:\Users\giao5\source\repos\Console\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+C:\Users\giao5\source\repos\Console\Console\obj\Debug\Console.exe
+C:\Users\giao5\source\repos\Console\Console\obj\Debug\Console.pdb
+C:\Users\giao5\source\repos\Console\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache

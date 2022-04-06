@@ -1,0 +1,6 @@
+C:\Users\giao5\source\repos\Console\EmployeeDB\bin\Debug\EmployeeDB.dacpac
+C:\Users\giao5\source\repos\Console\EmployeeDB\bin\Debug\EmployeeDB.dll
+C:\Users\giao5\source\repos\Console\EmployeeDB\bin\Debug\EmployeeDB.pdb
+C:\Users\giao5\source\repos\Console\EmployeeDB\obj\Debug\EmployeeDB.dll
+C:\Users\giao5\source\repos\Console\EmployeeDB\obj\Debug\EmployeeDB.pdb
+C:\Users\giao5\source\repos\Console\EmployeeDB\obj\Debug\EmployeeDB.sqlproj.AssemblyReference.cache
